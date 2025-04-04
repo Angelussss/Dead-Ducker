@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F072V8T6
+D ARM Microcontrollers - MCU 16/32-BITS MICROS
+K
+F https://componentsearchengine.com/Datasheets/1/STM32F072V8T6.pdf
+$ENDCMP
+#
+#End Doc Library
